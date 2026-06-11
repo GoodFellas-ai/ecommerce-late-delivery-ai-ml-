@@ -106,7 +106,11 @@ SHAP was used to interpret model predictions.
 - 🌍 Customer state / region  
 - 💰 Payment value  
 - 💵 Product price  
-- 📦 Order characteristics  
+- 📦 Order characteristics
+
+## 📈 Model Explainability (SHAP)
+
+![SHAP Summary](reports/figures/shap_summary.png)
 
 ### Insights:
 
