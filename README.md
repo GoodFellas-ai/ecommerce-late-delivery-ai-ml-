@@ -21,6 +21,17 @@ E-commerce platforms face critical challenges in:
 
 ---
 
+## 💡 Why This Project?
+
+This project demonstrates a real-world machine learning pipeline applied to supply chain operations.
+
+Unlike standard classification problems, this project focuses on:
+
+- Business impact (delivery optimization)
+- Imbalanced classification handling
+- Model interpretability (SHAP)
+- Actionable insights for logistics improvement
+
 ## 📦 Dataset
 
 Multi-table e-commerce dataset including:
