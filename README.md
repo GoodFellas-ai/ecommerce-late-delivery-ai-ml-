@@ -69,7 +69,7 @@ Key transformations performed:
 
 ---
 
-![SHAP](output.png)
+![SHAP](shap_summary.png)
 
 ## ⚖️ Class Imbalance Handling
 
