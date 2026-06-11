@@ -69,6 +69,8 @@ Key transformations performed:
 
 ---
 
+![SHAP](output.png)
+
 ## ⚖️ Class Imbalance Handling
 
 The dataset is imbalanced:
