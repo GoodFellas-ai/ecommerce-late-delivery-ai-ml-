@@ -121,7 +121,7 @@ SHAP was used to interpret model predictions.
 
 ## 📈 Model Explainability (SHAP)
 
-![SHAP Summary](reports/figures/shap_summary.png)
+![SHAP](outputt.png)
 
 ### Insights:
 
