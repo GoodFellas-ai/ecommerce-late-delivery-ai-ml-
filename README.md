@@ -187,6 +187,6 @@ This model enables:
 ---
 
 ## 👤 Author
-
+ERDAL ERDOĞAN aka GOODMAN
 Machine Learning Project – Supply Chain Analytics  
-Focus: Data Science, Machine Learning, Explainable AI
+Focus: Data Science, Machine Learning, Explainable AI - GenAI
